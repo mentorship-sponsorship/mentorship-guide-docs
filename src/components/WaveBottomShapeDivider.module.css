@@ -1,0 +1,24 @@
+.container {
+  position: relative;
+  padding-bottom: 125px;
+}
+
+.dividerTop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.dividerTop svg {
+  position: relative;
+  display: block;
+  width: calc(123% + 1.3px);
+  height: 61px;
+}
+
+.shapeFill {
+  fill: var(--ifm-color-secondary);
+}

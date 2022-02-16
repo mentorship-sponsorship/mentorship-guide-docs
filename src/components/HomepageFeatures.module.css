@@ -1,11 +1,32 @@
 .features {
   display: flex;
+  flex-direction: column;
   align-items: center;
   padding: 2rem 0;
   width: 100%;
+  padding-top: 100px;
+  background: linear-gradient(
+    180deg,
+    #b8c1ec,
+    #cdbde6,
+    #ddbbdb,
+    #e9bacf,
+    #eebbc3
+  );
 }
 
 .featureSvg {
   height: 200px;
   width: 200px;
+}
+
+.logoContainer {
+  width: 65%;
+  background-color: #d07698;
+  padding: 1.5rem;
+  border-radius: 1.1rem;
+}
+
+html[data-theme="dark"] .featuresContainer {
+  color: #232946;
 }

@@ -7,15 +7,22 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Mentorship Guide",
-  tagline: "Share what you can, when you can, how you can",
-  url: "https://your-docusaurus-test-site.com",
+  tagline: "Strategies, resources, and support for mentors and mentees",
+  url: "https://mentorship-guide.onrender.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
-  organizationName: "mentorship-sponsorship", // Usually your GitHub org/user name.
-  projectName: "mentorship-guide-docs", // Usually your repo name.
-
+  favicon: "/favicon.ico",
+  organizationName: "mentorship-sponsorship",
+  projectName: "mentorship-guide-docs",
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+      },
+    ],
+  ],
   presets: [
     [
       "classic",
@@ -23,15 +30,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/mentorship-sponsorship/mentorship-guide-docs/blob/main/",
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/mentorship-sponsorship/mentorship-guide-docs/blob/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -44,21 +49,21 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "Mentorship Guide",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+          alt: "Mentorship Guide Logo",
+          src: "img/mg-book.svg",
         },
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "what-why-mentorship",
             position: "left",
-            label: "Tutorial",
+            label: "Read",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/docs/contributing", label: "Contribute", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/mentorship-sponsorship/mentorship-guide-docs",
             label: "GitHub",
             position: "right",
           },
@@ -68,11 +73,19 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Read",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Why mentorship?",
+                to: "/docs/what-why-mentorship",
+              },
+              {
+                label: "For Mentors",
+                to: "/docs/mentors-overview",
+              },
+              {
+                label: "For Mentees",
+                to: "/docs/mentees-overview",
               },
             ],
           },
@@ -80,38 +93,37 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "GitHub",
+                href: "https://github.com/mentorship-sponsorship",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/holaguedis",
               },
             ],
           },
           {
-            title: "More",
+            title: "Contribute",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                label: "Share what you can, when you can, how you can",
+                to: "/docs/contributing",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Mentorship Guide - Built with Docusaurus`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        disableSwitch: false,
+        switchConfig: {
+          darkIcon: "☾",
+          lightIcon: "☀",
+        },
       },
     }),
 };

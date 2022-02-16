@@ -3,28 +3,51 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
-
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
+  --ifm-color-primary: #232946;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
+
+  --ifm-color-secondary: #eebbc3;
+  --ifm-color-secondary-darker: #d4939d;
+  --ifm-color-secondary-light: #f6dde1;
+  --ifm-color-secondary-lighter: #fbeef0;
+
+  --ifm-navbar-link-hover-color: var(--ifm-color-primary);
+  --ifm-navbar-background-color: #fff;
+
+  --ifm-footer-link-hover-color: #fff;
+
+  --ifm-blockquote-border-color: var(--ifm-color-secondary);
+  --ifm-blockquote-border-left-width: 5px;
+  --ifm-blockquote-padding-vertical: 5px;
+
   --ifm-code-font-size: 95%;
+
+  --color-main-background: #fff;
+  --color-link-background: #d9def5;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 html[data-theme="dark"] {
-  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary: #eebbc3;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
+
+  --ifm-navbar-link-hover-color: var(--ifm-color-primary);
+  --ifm-navbar-background-color: #2d3452;
+
+  --ifm-blockquote-color: #232946;
+
+  --color-main-background: #20253f;
 }
 
 .docusaurus-highlight-code-line {
@@ -36,4 +59,182 @@ html[data-theme="dark"] {
 
 html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Main */
+
+html[data-theme="dark"] .main-wrapper {
+  background-color: var(--color-main-background);
+}
+
+/* Navbar */
+
+.navbar__items--right a:first-child {
+  margin-right: 8px;
+}
+
+.navbar__link:hover {
+  background-color: var(--ifm-color-secondary);
+  border-radius: 5px;
+}
+
+html[data-theme="dark"] .navbar {
+  background-color: #232946;
+}
+
+html[data-theme="dark"] .navbar__link--active {
+  color: #fff;
+  font-weight: bold;
+}
+
+html[data-theme="dark"] .navbar__title:hover {
+  color: var(--ifm-color-secondary);
+}
+
+html[data-theme="dark"] .navbar__link:hover {
+  background-color: unset;
+  color: var(--ifm-color-secondary);
+}
+
+/* Hero */
+
+.hero__title {
+  background: linear-gradient(
+    90deg,
+    #232946,
+    #2d355f,
+    #364179,
+    #3d4c95,
+    #4457b1,
+    #5669c2,
+    #6d7ece,
+    #8594d9,
+    #9eaae3,
+    #b8c1ec
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+html[data-theme="dark"] .hero__title {
+  background: linear-gradient(
+    90deg,
+    #eebbc3,
+    #ecbaca,
+    #e7bad1,
+    #e1bad8,
+    #d9bbdf,
+    #cfbde4,
+    #c4bfe9,
+    #b8c1ec
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero__subtitle {
+  color: #232946;
+}
+
+html[data-theme="dark"] .hero__subtitle {
+  color: #fff;
+}
+
+/* Markdown */
+
+.markdown h1 {
+  background: linear-gradient(
+    90deg,
+    #232946,
+    #2d355f,
+    #364179,
+    #3d4c95,
+    #4457b1,
+    #5669c2,
+    #6d7ece,
+    #8594d9,
+    #9eaae3,
+    #b8c1ec
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+html[data-theme="dark"] .markdown h1 {
+  background: linear-gradient(
+    90deg,
+    #eebbc3,
+    #ecbaca,
+    #e7bad1,
+    #e1bad8,
+    #d9bbdf,
+    #cfbde4,
+    #c4bfe9,
+    #b8c1ec
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.markdown h2 {
+  color: #232946;
+}
+
+html[data-theme="dark"] .markdown h2 {
+  color: #d4939d;
+}
+
+html[data-theme="dark"] .markdown h3 {
+  color: #eebbc3;
+}
+
+.markdown a {
+  background-color: var(--color-link-background);
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+html[data-theme="dark"] .markdown a {
+  background-color: unset;
+  color: #cbd5e1;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #d4939d;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+html[data-theme="dark"] .markdown a:hover {
+  color: #fff;
+}
+
+.markdown blockquote {
+  background-color: var(--ifm-color-secondary-lighter);
+}
+
+html[data-theme="dark"] .markdown blockquote {
+  background-color: #2d3452;
+  color: #eebbc3;
+  font-weight: bold;
+}
+
+html[data-theme="dark"] .markdown p,
+html[data-theme="dark"] .markdown li {
+  color: #b8c1ec;
+}
+
+.markdown li > p {
+  margin: 0px;
+}
+
+/* Mobile/Tablet */
+
+@media screen and (max-width: 966px) {
+  .hide-on-mobile {
+    display: none;
+  }
 }

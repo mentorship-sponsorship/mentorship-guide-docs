@@ -1,0 +1,29 @@
+.logoContainer {
+  width: 70%;
+  padding: 1.5rem;
+  margin-bottom: 35px;
+}
+
+.logos {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  height: 80px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  text-shadow: 2px 2px 3px rgba(255, 255, 255, 0.1);
+}
+
+html[data-theme="dark"] .title {
+  color: #9ca3af;
+}

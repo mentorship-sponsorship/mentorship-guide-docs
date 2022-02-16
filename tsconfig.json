@@ -1,0 +1,7 @@
+{
+  // Pulled from Docusaurus docs. This file is not used in compilation.
+  "extends": "@tsconfig/docusaurus/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
