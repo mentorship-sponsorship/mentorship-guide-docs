@@ -4,7 +4,7 @@ id: resources-mentorship-programs
 
 # Mentorship Programs
 
-> As this crowdsourced list of free programs grow, we will update how it's organized. In the meantime, please contribute!
+> As this crowdsourced list of free programs grow, we will update how it's organized. In the meantime, feel free to add helpful programs and communities!
 
 Sorted alphabetically.
 

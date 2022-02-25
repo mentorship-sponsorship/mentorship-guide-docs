@@ -4,22 +4,45 @@ id: mentees-overview
 
 # Mentees Overview
 
-# Mentors Overview
+> Great to have you here, rooting for you!
 
-> It's great having you here! We're still working the mentee section, coming soon!
+## 🧠 Mentee Mindset
 
-In the meantime, please check out the various [forms of mentorship](mentorship-forms.md) to get an idea of what kind of structure you're looking for.
+Mentorship is an act, experience, and opportunity that is beneficial to everyone involved. There is no perfect one-size-fits-all approach. It personal to you, the relationship, and the situation!
 
-Also review the various [mentorship styles](mentorship-styles.md) and [mentorship topics](mentors-what-to-share.md) for inspiration on what you'd like to talk about.
+**Mentorship opportunities are everywhere.**
 
-## 🎉 Welcome
+To find mentors, it helpful to expand the definition of mentorship. Traditionally, when most people think of a mentor, it is someone you meet with on a regular (formal) basis to achieve a goal(s). It's a helpful form of mentorship when it's available to you, but it also not the only kind that exists. There are different mentoring [styles](mentorship-styles.md) and [forms](mentorship-forms.md).
 
-- Where do I find mentors?
-- What do I ask/talk about?
-- How do I respect their time?
-- Things to watch out for.
+Expanding your perspective on mentorship will open more mentoring opportunities.
 
-## Resources
+**Mentorship is a form of dynamic, personalized help.**
+
+An underlying theme of mentorship is that what most are looking for is a form of dynamic, personalized help.
+
+**Mentorship is reflection and action.**
+
+## 🪞 Reflect
+
+To answer the question of [How to find a mentor?](mentees-how-to-find-mentors.md) we should first answer these sub-questions:
+
+- What do I need help with?
+- How can mentorship help me?
+- What kind/form of mentorship do I want?
+
+Next, we move onto answering [Where to find a mentor](mentees-where-to-find-mentors.md).
+
+## ✨ Take action
+
+Now that you understand what you want help with, why it's beneficial, what kind of mentorship you're looking for, and have an idea of where to start looking, you can take action!
+
+Taking action is composed of [What do I ask/talk about?](mentees-what-to-ask.md) and [How do I respect our time?](mentees-how-to-respect-time.md).
+
+As you go about your mentoring journey, remember that you can be a mentee in certain scenarios, and a [mentor in other ways](mentors-becoming-a-mentor.md). If possible, keep paying it forward.
+
+Kudos, we're rooting for you! 🎉
+
+## 📚 Resources
 
 - [Mentorship Programs](resources-mentorship-programs.md)
 

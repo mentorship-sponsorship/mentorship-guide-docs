@@ -93,6 +93,10 @@ const config = {
             title: "Community",
             items: [
               {
+                label: "About",
+                to: "/docs/about",
+              },
+              {
                 label: "GitHub",
                 href: "https://github.com/mentorship-sponsorship",
               },
@@ -105,6 +109,10 @@ const config = {
           {
             title: "Contribute",
             items: [
+              {
+                label: "What about sponsorship?",
+                to: "/docs/about#sponsorship-is-important",
+              },
               {
                 label: "Share what you can, when you can, how you can",
                 to: "/docs/contributing",

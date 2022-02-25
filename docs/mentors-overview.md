@@ -10,7 +10,7 @@ id: mentors-overview
 
 It's great having you here! There's plenty of information in this guide (and it keeps growing). To get started, we suggest one of these approaches.
 
-1. Click on one of questions below
+1. Click one of questions below
 2. Explore the section on the sidebar
 
 ## Getting Started

@@ -29,6 +29,7 @@ const sidebars = {
         id: "mentees-overview",
       },
       items: [
+        "mentees-how-to-find-mentors",
         "mentees-where-to-find-mentors",
         "mentees-what-to-ask",
         "mentees-how-to-respect-time",
@@ -42,7 +43,11 @@ const sidebars = {
         type: "doc",
         id: "resources-overview",
       },
-      items: ["resources-mentorship-programs"],
+      items: [
+        "resources-mentorship-programs",
+        "resources-articles",
+        "resources-talks",
+      ],
     },
     {
       type: "category",
@@ -52,7 +57,12 @@ const sidebars = {
         type: "doc",
         id: "contributing-overview",
       },
-      items: ["code-of-conduct", "contributing", "thank-you-contributions"],
+      items: [
+        "about",
+        "code-of-conduct",
+        "contributing",
+        "thank-you-contributions",
+      ],
     },
   ],
 };
