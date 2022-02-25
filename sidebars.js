@@ -7,13 +7,11 @@ const sidebars = {
     {
       type: "category",
       collapsed: false,
-      label: "Getting Started",
-      items: ["mentors-overview", "mentees-overview"],
-    },
-    {
-      type: "category",
-      collapsed: false,
       label: "Mentors",
+      link: {
+        type: "doc",
+        id: "mentors-overview",
+      },
       items: [
         "mentorship-styles",
         "mentorship-forms",
@@ -26,6 +24,10 @@ const sidebars = {
       type: "category",
       collapsed: false,
       label: "Mentees (coming soon)",
+      link: {
+        type: "doc",
+        id: "mentees-overview",
+      },
       items: [
         "mentees-where-to-find-mentors",
         "mentees-what-to-ask",
@@ -36,12 +38,20 @@ const sidebars = {
       type: "category",
       collapsed: true,
       label: "Resources",
+      link: {
+        type: "doc",
+        id: "resources-overview",
+      },
       items: ["resources-mentorship-programs"],
     },
     {
       type: "category",
       collapsed: true,
       label: "Contributing",
+      link: {
+        type: "doc",
+        id: "contributing-overview",
+      },
       items: ["code-of-conduct", "contributing", "thank-you-contributions"],
     },
   ],
