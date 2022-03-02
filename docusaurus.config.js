@@ -98,7 +98,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/mentorship-sponsorship",
+                href: "https://github.com/mentorship-sponsorship/mentorship-guide-docs",
               },
               {
                 label: "Twitter",
