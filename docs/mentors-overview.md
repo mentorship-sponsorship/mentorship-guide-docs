@@ -33,6 +33,6 @@ Mentorship selfcare (coming soon!)
 
 :::note What else would you like learn?
 
-Not seeing your question? [Let us know](contributing.md)!
+Do you have additional questions? Is there something you'd like to see? [Let us know](contributing.md)!
 
 :::

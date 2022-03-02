@@ -23,7 +23,7 @@ const sidebars = {
     {
       type: "category",
       collapsed: false,
-      label: "Mentees (coming soon)",
+      label: "Mentees",
       link: {
         type: "doc",
         id: "mentees-overview",
@@ -31,10 +31,10 @@ const sidebars = {
       items: [
         "mentees-how-to-find-mentors",
         "mentees-where-to-find-mentors",
-        "mentees-what-to-ask",
-        "mentees-how-to-respect-time",
+        "mentees-practices",
       ],
     },
+    "safety",
     {
       type: "category",
       collapsed: true,
@@ -61,8 +61,15 @@ const sidebars = {
         "about",
         "code-of-conduct",
         "contributing",
+        "internationalization",
         "thank-you-contributions",
       ],
+    },
+    {
+      type: "category",
+      collapsed: true,
+      label: "Coming soon",
+      items: ["mentors-practices", "mental-models", "omnicare", "web3"],
     },
   ],
 };

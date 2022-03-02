@@ -75,7 +75,7 @@ For example:
 
 For those with large followings, although there are ways to manage with filters, email aliases, and more, it will still require nuance (more details to come).
 
-Ideally, mentees should also be reaching out with [thoughtful questions and research](mentees-how-to-respect-time.md).
+Ideally, mentees should also be reaching out with [thoughtful questions and research](mentees-practices.md).
 
 ### 🏛️ Mentorship Programs
 

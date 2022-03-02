@@ -1,6 +1,6 @@
 ---
 id: mental-models
-title: Mental Models (coming soon)
+title: Mental Models
 ---
 
 # Mentorship Mental Models

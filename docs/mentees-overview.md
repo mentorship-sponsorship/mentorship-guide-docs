@@ -12,15 +12,15 @@ Mentorship is an act, experience, and opportunity that is beneficial to everyone
 
 **Mentorship opportunities are everywhere.**
 
-To find mentors, it helpful to expand the definition of mentorship. Traditionally, when most people think of a mentor, it is someone you meet with on a regular (formal) basis to achieve a goal(s). It's a helpful form of mentorship when it's available to you, but it also not the only kind that exists. There are different mentoring [styles](mentorship-styles.md) and [forms](mentorship-forms.md).
+To find mentors, it helpful to expand the definition of mentorship. Traditionally, when most people think of a mentor, it is someone you meet with on a regular (formal) basis to achieve a goal(s). It's a helpful form of mentorship when it's available to you, but it also not the only kind that exists. There are different mentoring [styles](mentorship-styles.md) and [forms](mentorship-forms.md) (peer, informal, organic, and more).
 
 Expanding your perspective on mentorship will open more mentoring opportunities.
 
 **Mentorship is a form of dynamic, personalized help.**
 
-An underlying theme of mentorship is that what most are looking for is a form of dynamic, personalized help.
+An underlying theme of mentorship is that what most are looking for is a form of dynamic, personalized help. And in order to get help, you (or someone else before you) often have to ask for it. And asking for help usually requires asking a question.
 
-**Mentorship is reflection and action.**
+> Mentorship starts with asking a personalized, thoughtful question.
 
 ## 🪞 Reflect
 
@@ -30,24 +30,26 @@ To answer the question of [How to find a mentor?](mentees-how-to-find-mentors.md
 - How can mentorship help me?
 - What kind/form of mentorship do I want?
 
-Next, we move onto answering [Where to find a mentor](mentees-where-to-find-mentors.md).
+Next, we move onto answering [Where to find a mentor](mentees-where-to-find-mentors.md):
+
+- Can only a specific individual answer my question? Or can be asked in a group?
+- Can I ask my question in public? Or does it have to be private?
+- Where, specifically do I want to ask?
 
 ## ✨ Take action
 
-Now that you understand what you want help with, why it's beneficial, what kind of mentorship you're looking for, and have an idea of where to start looking, you can take action!
+Now that you understand what you want help with, why it's beneficial, what kind of mentorship you're looking for, what questions you want to ask and where you want to ask, it's time to take action: ask your questions. 🎉
 
-Taking action is composed of [What do I ask/talk about?](mentees-what-to-ask.md) and [How do I respect our time?](mentees-how-to-respect-time.md).
+When asking questions, keep these [helpful practices](mentees-practices.md) and [resources](resources-overview.md) in mind.
 
-As you go about your mentoring journey, remember that you can be a mentee in certain scenarios, and a [mentor in other ways](mentors-becoming-a-mentor.md). If possible, keep paying it forward.
+> Throughout your mentoring journey, you can be both a mentee and mentor. You can be a mentee in one way, and a [mentor in other ways](mentors-becoming-a-mentor.md).
+>
+> When possible, share what you can, when you can, how you can!
 
-Kudos, we're rooting for you! 🎉
-
-## 📚 Resources
-
-- [Mentorship Programs](resources-mentorship-programs.md)
+Kudos, we're rooting for you! ☀️
 
 :::note What else would you like learn?
 
-Not seeing your question? [Let us know](contributing.md)!
+Do you have additional questions? Is there something you'd like to see? [Let us know](contributing.md)!
 
 :::
