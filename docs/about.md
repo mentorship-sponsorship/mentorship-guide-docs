@@ -9,6 +9,8 @@ title: "About + Future"
 
 Mentorship Guide is a resource focused on making mentorship accessible to all.
 
+[![PRs Welcome](https://img.shields.io/badge/prs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ### Mission
 
 To provide mentors and mentees with strategies, resources, and community support.
