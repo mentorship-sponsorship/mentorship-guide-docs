@@ -47,6 +47,7 @@ const sidebars = {
         "resources-mentorship-programs",
         "resources-articles",
         "resources-talks",
+        "web3",
       ],
     },
     {
@@ -69,7 +70,7 @@ const sidebars = {
       type: "category",
       collapsed: true,
       label: "Coming soon",
-      items: ["mentors-practices", "mental-models", "omnicare", "web3"],
+      items: ["mentors-practices", "mental-models", "omnicare"],
     },
   ],
 };
