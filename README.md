@@ -36,6 +36,20 @@ Together, we're stronger. Thank you for your contributions!
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
+## 🚀 What's next?
+
+Short term, we want to keep connecting and bridging existing strategies, resources, and communities.
+
+Medium term, we want to keep expanding our reach, accounting for even more situational and cultural differences.
+
+Long term, there's opportunities to build tooling and infrastructure that would supercharge mentorship efforts.
+
+A wonderful, ongoing journey! 🎉
+
+## 👥 Sponsorship is important
+
+In addition to mentorship, sponsorship is important. There are plans to create a sponsorship guide as well. In the meantime, there is sponsorship related content in our [Resources](docs/resources-overview.md) section. Feel free to submit any helpful resources -- thank you! ✨
+
 ## 💻 Local Development
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
