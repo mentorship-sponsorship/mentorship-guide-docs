@@ -48,13 +48,9 @@ Wha topics do you want to be asked about?
 
 You welcome questions on broad topics. You are happy to talk about careers, advancing in roles, performance, relationships, and more.
 
-<!-- See [General Advice](what-to-mentor-on.md#general-advice) for more examples. -->
-
 ### Narrow
 
 You welcome questions on narrower topics. Such as questions specific to a programming language, product/service, a design philosophy, on a framework, etc.
-
-<!-- See [Specialized Advice](what-to-mentor-on.md#specific-domain-advice) for more examples. -->
 
 ## ❓ Preferred question specificity
 
