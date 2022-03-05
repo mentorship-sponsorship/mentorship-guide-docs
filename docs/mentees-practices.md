@@ -59,4 +59,4 @@ Friendly reminder that how you interact and engage in your mentorship relationsh
 
 Ideally, it would be such a positive experience that both people would want to continue seeking/giving mentorship throughout the community.
 
-> If you have additional things to add, please contribute!
+> If you have additional things to add, please [contribute](contributing.md)!

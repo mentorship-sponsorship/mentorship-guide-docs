@@ -6,6 +6,16 @@ id: contributing
 
 Mentorship Guide by the community, for the community.
 
+## Ways to Contribute
+
+There are five primary ways to contribute. Please choose whichever is most convenient for you -- thank you!
+
+- Submit this short [online form](https://forms.gle/uKoCveghB3QymNV69)
+- Open an [issue](https://github.com/mentorship-sponsorship/mentorship-guide-docs/issues)
+- Start a [discussion](https://github.com/mentorship-sponsorship/mentorship-guide-docs/discussions)
+- Open a [Pull Request](https://github.com/mentorship-sponsorship/mentorship-guide-docs)
+- Email [community@palante.co](mailto:community@palante.co?subject=Mentorship%20Guide)
+
 ## Contributing
 
 This guide is developed by the community for the community.
@@ -38,19 +48,19 @@ Help make our documentation understandable, easy-to-follow, and informative.
 
 ### 🖋 Spelling and grammar
 
-Noticed a spelling or grammar mistake, please submit the form, open an issue or submit a Pull Request.
+Noticed a spelling or grammar mistake, please submit the form, open an issue or create a Pull Request.
 
 ### 🐛 Bugs
 
-If you found a bug, please submit the form, open an issue or submit a Pull Request.
+If you found a bug, please create an issue, fill out the form, or email community@palante.co
 
 ### 💻 Features
 
-You can request a new feature by submitting the form, creating an issue, or emailing community@palante.co
+To request a new feature, please start a discussion, fill out the form, or email community@palante.co
 
 ### 💬 Questions
 
-If you have a question, please use the form, submit an issue, or email community@palante.co Thanks!
+If you have a question, please fill the form, start a discussion, or email community@palante.co Thanks!
 
 ## Thank you
 

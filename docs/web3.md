@@ -35,4 +35,4 @@ Therefore, when asking questions, it's helpful to ask questions publicly (and do
 
 Kudos to you all for sharing your knowledge, experiences, encouragement, connections, and support!
 
-> If you have things to add, please contribute!
+> If you have things to add, please [contribute](contributing.md)!

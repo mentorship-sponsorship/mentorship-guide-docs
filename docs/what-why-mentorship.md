@@ -78,4 +78,4 @@ Stories and reasons from the community on why we mentor.
 
 "In helping someone's, you've now helped their family, friends, and community. Small or large, you've positively contributed to future generations. It's a ripple effect." - Guedis
 
-> Share what you can, contribute your stories and reasons!
+> Share what you can, [contribute](contributing.md) your stories and reasons!
