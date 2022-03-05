@@ -64,8 +64,9 @@ const config = {
           { to: "/docs/contributing", label: "Contribute", position: "left" },
           {
             href: "https://github.com/mentorship-sponsorship/mentorship-guide-docs",
-            label: "GitHub",
             position: "right",
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
           },
         ],
       },
