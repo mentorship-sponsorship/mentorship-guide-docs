@@ -128,10 +128,6 @@ const config = {
       },
       colorMode: {
         disableSwitch: false,
-        switchConfig: {
-          darkIcon: "☾",
-          lightIcon: "☀",
-        },
       },
     }),
 };
