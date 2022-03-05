@@ -1,0 +1,17 @@
+name: 📖 Update content
+description: Update the guide, submit a resource, and improve the content.
+labels: "content, good first issue"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve the Mentorship Guide!
+
+        Feel free to open up a Pull Request with updated content and resources.
+        Or you can paste any links to resources and we can make the code changes.
+  - type: textarea
+    attributes:
+      label: Update the guide
+      description: Include helpful links and descriptions.
+    validations:
+      required: true

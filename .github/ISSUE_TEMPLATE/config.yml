@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: ❓ Ask a question
     url: https://github.com/mentorship-sponsorship/mentorship-guide-docs/discussions/new?category=general
-    about: Ask questions and discuss with other community members
+    about: Ask questions and discuss with other community members.
   - name: 💡 Feature Request
     url: https://github.com/mentorship-sponsorship/mentorship-guide-docs/discussions/new?category=ideas
-    about: We appreciate you taking the time to improve the guide with your ideas! Please click "Open" and we can continue the conversation on Discussions. Thanks!
+    about: We appreciate you taking the time to improve the guide with your ideas! Let's continue the conversation on Discussions. Thanks!
