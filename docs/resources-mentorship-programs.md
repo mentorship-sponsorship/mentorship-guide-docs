@@ -4,7 +4,7 @@ id: resources-mentorship-programs
 
 # Mentorship Programs
 
-> As this crowdsourced list of free programs grow, we will update how it's organized. In the meantime, feel free to add helpful programs and communities!
+> As this crowdsourced list of **free** programs grow, we will update how it's organized. In the meantime, feel free to add helpful programs and communities!
 
 Sorted alphabetically.
 
@@ -21,6 +21,10 @@ Sorted alphabetically.
 [First Round Fast Track](https://fasttrack.firstround.com/)
 
 - Fast Track pairs mentors and mentees across engineering, operations, product, design, and more
+
+[Merit](https://www.get-merit.com/)
+
+- Merit provides career mentorship for under-networked tech workers through video calls and a community platform
 
 [LFX Mentorship (CommunityBridge)](https://mentorship.lfx.linuxfoundation.org)
 
