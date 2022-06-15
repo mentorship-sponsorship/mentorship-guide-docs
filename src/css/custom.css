@@ -42,12 +42,16 @@ html[data-theme="dark"] {
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
 
+  --ifm-color-secondary: #20253f;
+
   --ifm-navbar-link-hover-color: var(--ifm-color-primary);
   --ifm-navbar-background-color: #2d3452;
 
   --ifm-blockquote-color: #232946;
 
   --color-main-background: #20253f;
+
+  --search-local-hit-active-color: var(--ifm-color-secondary);
 }
 
 .docusaurus-highlight-code-line {
