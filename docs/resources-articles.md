@@ -16,17 +16,21 @@ title: "Articles"
 - Informal mentorship, formal mentorship, onboarding as a mentorship
 - Being a supportive, efficient mentor, places to find mentors, and thoughts from mentoring engineers
 
+[30 Questions to Ask a Mentor](https://blog.get-merit.com/30-questions-to-ask-a-mentor/) by [Merit](https://www.get-merit.com/discover)
+
+- Questions to ask a mentor across various categories: job searches, career pivots, interviewing, skill-building, and career growth
+
 [Coaches and Mentors for Engineering Managers and Engineering Leaders](https://blog.pragmaticengineer.com/coaches-and-mentors-for-engineering-managers/) by [Gergely Orosz](https://blog.pragmaticengineer.com/coaches-and-mentors-for-engineering-managers/)
 
 - List of coaches (paid) for engineering leaders
 
 [The tech tribe of mentors](https://dmellonielet.com/2020/10/20/tech-tribe-of-mentors.html) by [Nielet D'mello](https://dmellonielet.com/)
 
-- On seeking different categories of mentors: decidcated mentor, ad hoc mentor, and internt mentor
+- On seeking different categories of mentors: dedicated mentor, ad hoc mentor, and internet mentor
 
 [Mentorship Resources](https://dev.to/jess/mentorship-resources-19p0) by [Jess Lee](https://dev.to/jess)
 
-- Curated list of resource on mentorship, communication, and career advice/experiences
+- Curated list of resources on mentorship, communication, and career advice/experiences
 
 [How To Find a Mentor Using Twitter](https://dev.to/willjohnsonio/how-to-find-a-mentor-using-twitter-3fl8) by [Will Johnson](https://dev.to/willjohnsonio)
 
