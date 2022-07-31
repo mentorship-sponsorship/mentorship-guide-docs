@@ -16,10 +16,10 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-beta.21",
-    "@docusaurus/preset-classic": "2.0.0-beta.21",
-    "@docusaurus/types": "2.0.0-beta.21",
-    "@easyops-cn/docusaurus-search-local": "^0.27.1",
+    "@docusaurus/core": "2.0.0-rc.1",
+    "@docusaurus/preset-classic": "2.0.0-rc.1",
+    "@docusaurus/types": "2.0.0-rc.1",
+    "@easyops-cn/docusaurus-search-local": "^0.30.2",
     "@mdx-js/react": "^1.6.21",
     "clsx": "^1.1.1",
     "prism-react-renderer": "^1.2.1",
@@ -39,11 +39,11 @@
     ]
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "2.0.0-beta.21",
+    "@docusaurus/module-type-aliases": "2.0.0-rc.1",
     "@tsconfig/docusaurus": "^1.0.6",
     "husky": ">=6",
     "lint-staged": ">=10",
-    "prettier": "2.7.0",
+    "prettier": "2.7.1",
     "typescript": "^4.7.3"
   },
   "lint-staged": {
