@@ -30,6 +30,10 @@ Sorted alphabetically.
 
 - LFX CommunityBridge connects mentors and mentees through the broader Linux Foundation projects
 
+[Nasqueron](http://join.nasqueron.org/)
+
+- Nasqueron offers a mentoring program in operations (DevOps/SRE/systems engineer) and software development
+
 ## 👥 Communities
 
 Peer mentorship among a supportive community.
